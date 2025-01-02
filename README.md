@@ -1,4 +1,4 @@
-# Squad2.0_Finetuning
+
 
 # Question Answering with SQuAD 2.0
 This repository contains code and scripts to train and evaluate a BERT-based Question Answering (QA) model on the SQuAD 2.0 dataset. The SQuAD 2.0 dataset combines questions that have answers with questions that are unanswerable, challenging models to learn the ability to determine when no answer is supported by the passage.
